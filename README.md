@@ -25,12 +25,12 @@ class AmanSharma:
 
 ---
 
-### ⚡ About Me
+### About Me
 
-- 🔧 **4+ years** building scalable, data-driven backend platforms
-- 🏢 Currently at **Gale** — centralized dashboards, AdTech automation, and high-volume data pipelines
-- 📈 Previously scaled an education ERP to **2x users** at K12 Techno with Kafka-powered services
-- 🎓 B.Tech in CS from Marathwada Institute of Technology (**8.66 CGPA**)
+- **4+ years** building scalable, data-driven backend platforms
+- Currently at **Gale** — centralized dashboards, AdTech automation, and high-volume data pipelines
+- Previously scaled an education ERP to **2x users** at K12 Techno with Kafka-powered services
+- B.Tech in CS from Marathwada Institute of Technology (**8.66 CGPA**)
 
 ---
 
@@ -46,7 +46,7 @@ class AmanSharma:
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -60,7 +60,7 @@ class AmanSharma:
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
